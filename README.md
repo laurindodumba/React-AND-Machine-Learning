@@ -1,1 +1,2 @@
 # React-AND-Machine-Learning
+❤ Desde o começo do ano me desafiei em começar aprender alguma coisa nova. E atualmente estou aprender o FrameWork React.js com o principal objetivo de aprender a construir aplicações robusta e com certo grau de complexidade. Está aplicação é fruto de uma busca para escalar meu aprendizado  em realizar o processo de Full Stack Machine Learning. Pois desejo migrar os projetos desenvolvidos apenas no "NoteBook" para uma aplicação mais robusta e que faça sentido para os usuário.
