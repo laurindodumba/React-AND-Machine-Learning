@@ -1,0 +1,56 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignorar dependências e arquivos de build
+node_modules/
+dist/
+.vite/
+.vscode/
+.DS_Store
+
+# Ignorar configurações do sistema operacional
+Thumbs.db
+
+# Ignorar arquivos de ambiente
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Logs e caches
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log
+.idea/
+*.log
+
+# Arquivos do editor
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace

@@ -1,0 +1,54 @@
+/* Estilização do container do formulário */
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background-color: #5a5a5a; /* Cor de fundo */
+}
+
+/* Estilização do formulário */
+.register-form {
+    background-color: #2c2f33;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    width: 300px; /* Largura do formulário */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Título do formulário */
+.register-form h2 {
+    color: #fff;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+/* Estilização dos inputs */
+.register-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #fff;
+    text-align: center;
+}
+
+/* Botão de registro */
+.register-form button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffcc00;
+    color: black;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.register-form button:hover {
+    background-color: #e6b800;
+}

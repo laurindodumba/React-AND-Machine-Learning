@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(105, 109, 107);
+}
+
+.bg-light-dark{
+    background-color: #2B3035;
+    color: white;
+    border-radius: 18px;
+    
+}
+
+.container h1{
+    text-align: center;
+    color: white;
+}
+
+.p-5 {
+    padding: 1.5rem;
+}
+
+#root{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.container{
+    display: flex;
+}
